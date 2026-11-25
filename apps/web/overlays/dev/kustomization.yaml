@@ -1,0 +1,2 @@
+resources: [../../base]
+replicas: [{name: web, count: 1}]
